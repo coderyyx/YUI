@@ -1,5 +1,7 @@
 <p align="center">
-  <h1 style="text-align: center;font-size: 48px;font-family: cursive;">BioSan</h1>
+  <h1 style="text-align: center;font-size: 48px;font-family: cursive;">
+    <center>BioSan</center>
+  </h1>
 </p>
 
 #MonkeyUi
