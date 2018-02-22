@@ -21,7 +21,7 @@ function alertBabelConfig(rules) {
 }
 
 module.exports = {
-  port: 8002,
+  port: 8004,
   source: {
     components: './components',
     docs: './docs',

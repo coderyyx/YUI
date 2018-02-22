@@ -120,3 +120,5 @@ export { default as Mention } from './mention';
 export { default as Upload } from './upload';
 
 export { default as version } from './version';
+
+export { default as Loading } from './loading';

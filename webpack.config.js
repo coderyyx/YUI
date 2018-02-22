@@ -1,6 +1,6 @@
 // This config is for building dist files
 const webpack = require('webpack');
-const getWebpackConfig = require('antd-tools/lib/getWebpackConfig');
+const getWebpackConfig = require('biosan-tools/lib/getWebpackConfig');
 
 // noParse still leave `require('./locale' + name)` in dist files
 // ignore is better
